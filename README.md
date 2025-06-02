@@ -20,7 +20,11 @@ functions, aggregation, filtering
 
 Input dataset offers a comprehensive look at the spending habits of around 29k customers across the nation.
 
-Transaction table contains field such as transaction _id (int) ,city  (string), transaction_date (string), card_type (string),exp_type (string), Gender (string) , Amount (int)
+Transaction table contains field such as transaction _id (int) ,city (string), transaction_date (string), card_type (string),exp_type (string), Gender (string) , Amount (int)
+
+
+![Transaction_table](https://github.com/user-attachments/assets/0829f356-3767-451d-85b8-17479f9356a8)
+
 
 
 🎯 𝕂𝕖𝕪 𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝕊ℚ𝕃 𝕢𝕦𝕖𝕣𝕚𝕖𝕤 / 𝕃𝕖𝕧𝕖𝕝-𝔸𝕕𝕧𝕒𝕟𝕔𝕖𝕕  
